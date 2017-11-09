@@ -1,0 +1,2 @@
+# androidSQLiteInster
+no
